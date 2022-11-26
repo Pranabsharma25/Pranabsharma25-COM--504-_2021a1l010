@@ -1,0 +1,6 @@
+Stock Market Predction using Machine Learning
+
+
+this project is made using Google Colab. The data set i used in this project is Coca-cola 30 days stock price dataset (KO.csv).
+Basic purpose of this project is to predict the next day Abjust Close stock price (Average Price) of Coca-cola using previous days from 
+data_set
